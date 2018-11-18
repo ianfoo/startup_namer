@@ -4,6 +4,8 @@ My first [Flutter](https://flutter.io) project, as followed along in
 [Flutter's](https://flutter.io/codelabs) [first
 codelab](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/).
 
+![iOS screenshot](screenshot_ios.png)
+
 ## Notes
 
 The most difficult/time consuming part of getting my first Flutter app going
